@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5533fffd-6bb9-422b-9d4e-a8c0915cbd54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Migrador-access-posgress-v2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access2pg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrator.py" afterDir="false" />
+    <list default="true" id="5533fffd-6bb9-422b-9d4e-a8c0915cbd54" name="Changes" comment="Carga inicial de segundo proyecto para migrar de Access a PosgreSQL">
+      <change afterPath="$PROJECT_DIR$/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/access2pg.py" beforeDir="false" afterPath="$PROJECT_DIR$/access2pg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrator.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Corsario007"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Corsario007/Migrador-ACCDB-Grafico-V2.git",
+    "accountId": "243ec0e6-4da7-4ba9-9a94-658ab16a0a35"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -48,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Administrador/PycharmProjects/Migrador-access-posgress-v2/assets",
+    "last_opened_file_path": "C:/Users/Administrador/PycharmProjects/Migrador-access-posgress-v2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrador\PycharmProjects\Migrador-access-posgress-v2" />
       <recent name="C:\Users\Administrador\PycharmProjects\Migrador-access-posgress-v2\assets" />
     </key>
   </component>
@@ -77,15 +84,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761925235328</updated>
-      <workItem from="1761925236378" duration="1150000" />
+      <workItem from="1761925236378" duration="6908000" />
     </task>
+    <task id="LOCAL-00001" summary="Carga inicial de segundo proyecto para migrar de Access a PosgreSQL">
+      <option name="closed" value="true" />
+      <created>1761926507374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761926507374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Carga inicial de segundo proyecto para migrar de Access a PosgreSQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Carga inicial de segundo proyecto para migrar de Access a PosgreSQL" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Migrador_access_posgress_v2$access2pg.coverage" NAME="access2pg Coverage Results" MODIFIED="1761926338909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Migrador_access_posgress_v2$migrator.coverage" NAME="migrator Coverage Results" MODIFIED="1761926328142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Migrador_access_posgress_v2$access2pg.coverage" NAME="access2pg Coverage Results" MODIFIED="1761938568549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Migrador_access_posgress_v2$migrator.coverage" NAME="migrator Coverage Results" MODIFIED="1761938923060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
